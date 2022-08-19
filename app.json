@@ -86,7 +86,7 @@
         }
     },
     "buildpacks": [{
-      "url": "Kl_t3"
+      "url": "https://github.com/muhammadrizky16/KyyMuc"
     }, {
       "url": "heroku/python"
     }],
