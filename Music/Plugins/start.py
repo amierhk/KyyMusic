@@ -46,7 +46,7 @@ def start_pannel():
             InlineKeyboardButton("📚 الاوامر ​ 📚", url="https://telegra.ph/ҡʏʏ-ᴍᴇᴍ-ᴇx-01-21-2"),
         ],
         [
-            InlineKeyboardButton("🌐 السورس 🌐", url="https://t.me/Kl_t3"),
+            InlineKeyboardButton("🌐 السورس 🌐", url=""),
         ],
     ]
     return (
@@ -69,7 +69,7 @@ pstart_markup = InlineKeyboardMarkup(
             InlineKeyboardButton("📚 الاوامر ​📚", url="https://telegra.ph/ҡʏʏ-ᴍᴇᴍ-ᴇx-01-21-2"),
         ],
         [
-            InlineKeyboardButton("🌐 السورس 🌐", url="https://t.me/Kl_t3"),
+            InlineKeyboardButton("🌐 السورس 🌐", url=""),
         ],
     ]
 )
